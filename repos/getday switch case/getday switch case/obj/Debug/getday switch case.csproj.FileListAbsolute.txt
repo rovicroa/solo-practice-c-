@@ -1,0 +1,7 @@
+C:\Users\Rovic\source\repos\getday switch case\getday switch case\obj\Debug\getday switch case.csproj.AssemblyReference.cache
+C:\Users\Rovic\source\repos\getday switch case\getday switch case\obj\Debug\getday switch case.csproj.CoreCompileInputs.cache
+C:\Users\Rovic\source\repos\getday switch case\getday switch case\bin\Debug\getday switch case.exe.config
+C:\Users\Rovic\source\repos\getday switch case\getday switch case\bin\Debug\getday switch case.exe
+C:\Users\Rovic\source\repos\getday switch case\getday switch case\bin\Debug\getday switch case.pdb
+C:\Users\Rovic\source\repos\getday switch case\getday switch case\obj\Debug\getday switch case.exe
+C:\Users\Rovic\source\repos\getday switch case\getday switch case\obj\Debug\getday switch case.pdb

@@ -1,0 +1,7 @@
+C:\Users\Rovic\source\repos\Part2\Part2\bin\Debug\Part2.exe.config
+C:\Users\Rovic\source\repos\Part2\Part2\bin\Debug\Part2.exe
+C:\Users\Rovic\source\repos\Part2\Part2\bin\Debug\Part2.pdb
+C:\Users\Rovic\source\repos\Part2\Part2\obj\Debug\Part2.csproj.AssemblyReference.cache
+C:\Users\Rovic\source\repos\Part2\Part2\obj\Debug\Part2.csproj.CoreCompileInputs.cache
+C:\Users\Rovic\source\repos\Part2\Part2\obj\Debug\Part2.exe
+C:\Users\Rovic\source\repos\Part2\Part2\obj\Debug\Part2.pdb

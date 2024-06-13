@@ -1,0 +1,7 @@
+C:\Users\Rovic\source\repos\exponent\exponent\obj\Debug\exponent.csproj.AssemblyReference.cache
+C:\Users\Rovic\source\repos\exponent\exponent\obj\Debug\exponent.csproj.CoreCompileInputs.cache
+C:\Users\Rovic\source\repos\exponent\exponent\bin\Debug\exponent.exe.config
+C:\Users\Rovic\source\repos\exponent\exponent\bin\Debug\exponent.exe
+C:\Users\Rovic\source\repos\exponent\exponent\bin\Debug\exponent.pdb
+C:\Users\Rovic\source\repos\exponent\exponent\obj\Debug\exponent.exe
+C:\Users\Rovic\source\repos\exponent\exponent\obj\Debug\exponent.pdb
